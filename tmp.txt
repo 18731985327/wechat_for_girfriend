@@ -5,7 +5,7 @@
 今日天气：{{weather1.DATA}}
 当前温度：{{temperature1.DATA}}
 {{sid.DATA}}
-我们已经在一起start_date=2022-10-17
+我们已经在一起{{start_date.DATA}}天
 距离大哥的生日还有{{birthday_lover.DATA}}天
 距离小弟的生日还有{{birthday_my.DATA}}天
 距离元旦还有{{yd.DATA}}天
